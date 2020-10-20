@@ -1,0 +1,9 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+@media screen and(max-width:800px){
+    .section_col3 .row{
+       
+    }
+}
